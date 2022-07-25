@@ -1,0 +1,6 @@
+tensorflow
+numpy
+requests
+Pillow
+imageio
+scikit-image
